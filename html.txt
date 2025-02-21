@@ -3,5 +3,5 @@
   </centre>
 <hr>
 <p>
-  city:chennai
+  city:jaipur
 </p>
